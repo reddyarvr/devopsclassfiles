@@ -15,7 +15,7 @@ sudo service jenkins status
 sudo systemctl start jenkins
 sudo systemctl status jenkins
 sudo ufw allow 8080
-
+curl ifconfig.co  --- to check ip address of ubuntu machine
 
 # http://ip_address_or_domain_name:8080
 # /var/lib/jenkins/secrets/initialAdminPassword
